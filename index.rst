@@ -1,10 +1,11 @@
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 3
    :caption: KS0488X Keyestudio 4DOF Robot Arm Arduino Learning Kit
 
 
-   KS0488X.md
+   docs/1.Introduction
+   docs/2.Tutorial/2.Tutorial.rst
 
 
 
