@@ -1,5 +1,5 @@
 =========
-5. Robot Arm Projects
+6. Robot Arm Projects
 =========
 
 .. toctree::
